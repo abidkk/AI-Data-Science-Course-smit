@@ -21,7 +21,7 @@ Check if packages are installed:
 - pip list
 
 
-# -------------------------------------------------------------------------
+# ----------------------------------------------------------
 
 # Python Tutorial Pogramiz
 - https://www.programiz.com/python-programming

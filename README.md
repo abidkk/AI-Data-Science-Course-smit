@@ -19,3 +19,9 @@ Run the following command to install all packages listed in requirements.txt:
 # Verify Installation
 Check if packages are installed:
 - pip list
+
+
+# -------------------------------------------------------------------------
+
+# Python Tutorial Pogramiz
+- https://www.programiz.com/python-programming
